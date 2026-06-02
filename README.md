@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deltafraktal&theme=merko&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_height=200)](https://git.io/streak-stats)
+<div align="center" >
+  <img width="30%" src="https://media1.tenor.com/m/JEBHQ33YWfAAAAAd/goat.gif">
+</div>
+
+
+
+---
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=deltafraktal&theme=merko&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="GitHub Streak" /></a>
+</div>
